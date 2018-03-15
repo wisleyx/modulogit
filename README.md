@@ -1,1 +1,1 @@
-Estamos atualizando o git olhe bem
+Estamos atualizando o git, olhe bem
